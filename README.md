@@ -1,5 +1,6 @@
 # TED
 Trabalho feito pela dupla: Elielson R. e Luis Henrique
+
 import sys
 def mdc(a, b):
     if b == 0:
